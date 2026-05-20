@@ -19,21 +19,21 @@ This project focuses on industrial-grade schematic capture, component footprint 
 
 ### 1. Schematic Capture
 *Logical design, net structuring, and component specification.*
-![Schematic](Screenshot_2026-02-06_001751.png)
+![Schematic](Screenshot%202026-02-06%20001751.png)
 
 ### 2. 2D Layout & Routing
 *Trace routing, polygon pours, and silkscreen placement.*
-![2D Layout](Screenshot_2026-02-06_001902.png)
+![2D Layout](Screenshot%202026-02-06%20001902.png)
 
 ### 3. 3D PCB Rendering
 *Mechanical clearance and physical footprint verification.*
-![3D Render Top](Screenshot_2026-02-06_002044.png)
-![3D Render Bottom](Screenshot_2026-02-06_002009.png)
+![3D Render Top](Screenshot%202026-02-06%20002044.png)
+![3D Render Bottom](Screenshot%202026-02-06%20002009.png)
 
 ### 4. Manufacturing Validation
 *Generating Design Rule Checks (DRC) and verifying CAM/Gerber outputs.*
-![DRC Report](Screenshot_2026-02-06_001818.png)
-![CAMtastic Viewer](Screenshot_2026-02-06_002232.png)
+![DRC Report](Screenshot%202026-02-06%20001818.png)
+![CAMtastic Viewer](Screenshot%202026-02-06%20002232.png)
 
 ## Repository Contents
 * **`/`** - Contains the native Altium project files (`.PrjPcb`, `.SchDoc`, `.PcbDoc`) for direct layout examination.
